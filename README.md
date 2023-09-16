@@ -4,6 +4,18 @@
 - 💞️ I’m looking to collaborate on the above followings
 - 📫 How to reach me developer.learn01@gmail.com
 
-<!---
 This Repository is a collection of Implementation documents.
+
+<!---
+Purposes:
+
+This repository contain setting up a DevOps CI/CD Pipeline using
+
+Git
+Jenkins
+Maven
+Ansible
+Docker &
+Kubernetes
+
 --->
